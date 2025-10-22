@@ -1,9 +1,5 @@
 <!-- Profile Header -->
 <div style="display: flex; align-items: center; gap: 20px; background: #f5f5f5; padding: 15px 20px; border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-  <img src="https://github.com/user-attachments/assets/cd5c5aad-7ad8-42aa-8446-74870f92801f" 
-       alt="Profile" 
-       width="160" 
-       style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
   <div>
     <h2 style="margin: 0; font-size: 22px;">📍 Karachi, Gulistan-e-Johar</h2>
     <p style="margin: 6px 0; font-size: 17px;">
