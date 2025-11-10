@@ -10,7 +10,7 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Imam Sanghaar</h1>
-<h3 align="center">🚀 Passionate Front-End Web Developer | Prompt & Context Engineer | n8n Automation </h3>
+<h3 align="center">🚀Web Developer | Prompt & Context Engineer | n8n Automation </h3>
 
 <!-- Profile Views -->
 <p align="center">
