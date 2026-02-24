@@ -47,13 +47,13 @@
 ---
 
 ### Currently Working on:
-- **Hackathon 0** - Building a Personal AI Employee  
+- **Hackathon 0** - Building a Personal AI Employee
   📄 [View Project Document](https://docs.google.com/document/d/1ofTMR1IE7jEMvXM-rdsGXy6unI4DLS_gc6dmZo8WPkI/edit?tab=t.0)
 
 ---
 
 ### 📁 Projects:
-1. **Agentfactory Book** - Built with Docusaurus, Prompt Engineering & SpecKitPlus  
+1. **Agentfactory Book** - Built with Docusaurus, Prompt Engineering & SpecKitPlus
    🔗 [agentfactory-imsanghaar.vercel.app](https://agentfactory-imsanghaar.vercel.app) *(Under Development)*
 
 ---
