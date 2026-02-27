@@ -52,9 +52,21 @@
 
 ---
 
-### 📁 Projects:
+### 📁 Current Projects:
 1. **Agentfactory Book** - Built with Docusaurus, Prompt Engineering & SpecKitPlus
-   🔗 [agentfactory-imsanghaar.vercel.app](https://agentfactory-imsanghaar.vercel.app) *(Under Development)*
+   🔗 [Agent Factory](https://agentfactory-imsanghaar.vercel.app) **(Under Development)**
+
+2. **Sang Monitor** - Built with Typescript, WebGL, Rust, Python Prompt Engineering & SpecKitPlus
+   🔗 [Sang Monitor](https://sang-monitor.vercel.app) **Current**
+
+3. **Sang Tech Monitor** - Built with Typescript, WebGL, Rust, Python Prompt Engineering & SpecKitPlus
+   🔗 [Sang Tech Monitor](https://sang-tech.vercel.app) **Current**
+
+4. **Sang Finance Monitor** - Built with Typescript, WebGL, Rust, Python Prompt Engineering & SpecKitPlus
+   🔗 [Sang Finance Monitor](https://sang-finance.vercel.app) **Current**
+
+5. **Sang Happy Monitor** - For Spreading Happy News from all over the world & preventing from `"DoomScrolling"` 
+   🔗 [Sang Happy Monitor](https://sang-happy.vercel.app) **Current**
 
 ---
 
