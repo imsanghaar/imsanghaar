@@ -47,7 +47,7 @@
 ---
 
 ### Currently Working on:
-- **[Hackathon 0](https://docs.google.com/document/d/1ofTMR1IE7jEMvXM-rdsGXy6unI4DLS_gc6dmZo8WPkI/edit?tab=t.0)** - Building a Personal Digital Full Time Equivalents
+- **[Hackathon 0](https://docs.google.com/document/d/1ofTMR1IE7jEMvXM-rdsGXy6unI4DLS_gc6dmZo8WPkI/edit?tab=t.0)** - Building a Personal Digital Full Time Equivalents (FTE) also called an AI Employee. 
 
 ---
 
@@ -56,11 +56,7 @@
 
 2. **[Sang Monitor](https://sang-monitor.vercel.app)** - Built with Typescript, WebGL, Rust, Python Prompt Engineering & SpecKitPlus  **Current**
 
-3. **[Sang Tech Monitor](https://sang-tech.vercel.app)** - Built with Typescript, WebGL, Rust, Python Prompt Engineering & SpecKitPlus **Current**
-
-4. **[Sang Finance Monitor](https://sang-finance.vercel.app)** - Built with Typescript, WebGL, Rust, Python Prompt Engineering & SpecKitPlus **Current**
-
-5. **[Sang Happy Monitor](https://sang-happy.vercel.app)** - For Spreading Happy News from all over the world & preventing from `"DoomScrolling"`  **Current**
+3. **[Yes Its Me](https://github.com/imsanghaar/yesitsme)** - An OSINT tool for looking up on Instagram accounts by Email, Username, etc **Current**
 
 ---
 
