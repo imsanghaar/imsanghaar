@@ -26,7 +26,7 @@
 - 🎓 I'm a **Prompt & Context Engineer** certified from **PIAIC**
 - 💻 Currently working on **Digital AI Employees** and **Claude Code**
 - 🌱 Learning **Agent Factory**
-- 💬 Ask me about **AI assistants**, **Web Development**, or **Automation**
+- 💬 Ask me about **AI assistants**, **Web Development**, or **AI Agents**
 - 📫 Reach me at: **imamsanghaar@gmail.com**
 - ⚡ Fun fact: *I believe code can feel alive if you build it with passion!*
 
