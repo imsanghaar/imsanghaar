@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="Main-logo.png" alt="Imam Sanghaar Logo" width="400"/>
+</div>
+
+<br>
+
 <!-- Profile Header -->
 <div style="display: flex; align-items: center; gap: 20px; background: #f5f5f5; padding: 15px 20px; border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
   <div>
