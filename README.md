@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Main-logo.png" alt="Imam Sanghaar Logo" width="400"/>
+  <img src="Main-logo.png" alt="Imam Sanghaar Logo" width="500"/>
 </div>
 
 <br>
