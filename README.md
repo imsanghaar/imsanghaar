@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imam-sanghaar-chandio-96780b274)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imamsanghaar@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61556981875577)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imsanghaar)
+[![Instagram](https://img.shields.io/badge/Instagram-%23121011.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/imsanghaar)
 
 <br/>
 
