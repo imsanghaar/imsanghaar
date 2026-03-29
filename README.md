@@ -1,106 +1,185 @@
 <div align="center">
-  <img src="Main-logo.png" alt="Imam Sanghaar Logo" width="500"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Imam%20Sanghaar&fontSize=56&fontColor=fff&fontAlignY=50&desc=Building%20the%20future%2C%20one%20agent%20at%20a%20time&descSize=16&descColor=ccc&descAlignY=72&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Imam+%F0%9F%91%8B;Web+Developer+%7C+AI+Engineer;Prompt+%26+Context+Engineer;Building+Digital+AI+Employees+%F0%9F%A4%96;Agentic+AI+Learner+%40+PIAIC" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imam-sanghaar-chandio-96780b274)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imamsanghaar@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61556981875577)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imsanghaar)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=imsanghaar&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/imsanghaar?label=Followers&style=flat&color=0e75b6)
+![GitHub stars](https://img.shields.io/github/stars/imsanghaar?label=Total%20Stars&style=flat&color=f4b400)
+
 </div>
 
-<br>
+---
 
-<!-- Profile Header -->
-<div style="display: flex; align-items: center; gap: 20px; background: #f5f5f5; padding: 15px 20px; border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-  <div>
-    <h2 style="margin: 0; font-size: 22px;">📍 Karachi, Gulistan-e-Johar</h2>
-    <p style="margin: 6px 0; font-size: 17px;">
-    </p>
-  </div>
+## 🧠 About Me
+
+- 📍 Based in **Karachi, Gulistan-e-Johar** 🇵🇰
+- 🎓 Studying **Web Development** at **NED University** & **Agentic AI** at **PIAIC**
+- 🤖 Currently building **Digital AI Employees (FTEs)** — Hackathon 0
+- 🌱 Learning **n8n · AgentKit · Claude Code · Spec-Driven Dev**
+- 💬 Ask me about **AI Agents, Web Dev, Prompt Engineering**
+- 📫 Reach me: **imamsanghaar@gmail.com**
+- ⚡ *I believe code can feel alive if you build it with passion!*
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white)
+
+**AI & Agentic**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| 🏭 **Agent Factory** | AI Agent documentation & tooling platform | Docusaurus · PromptEng | [Visit →](https://agentfactory-imsanghaar.vercel.app) |
+| 📊 **Sang Monitor** | Real-time system monitor with WebGL visuals | TS · WebGL · Rust · Python | [Visit →](https://sang-monitor.vercel.app) |
+| 🔍 **Yes Its Me** | OSINT tool — Instagram lookup via email & username | Python | [Repo →](https://github.com/imsanghaar/yesitsme) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=imsanghaar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imsanghaar&theme=github-dark-blue&hide_border=true" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsanghaar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=imsanghaar&theme=github_dark&hide_border=true&layout=compact" width="48%" />
+
 </div>
 
-<br>
-
-<h1 align="center">Hi 👋, I'm Imam Sanghaar</h1>
-<h3 align="center">🚀Web Developer | Prompt & Context Engineer | Spec-Driven Developer | Agentic AI (Learner) </h3>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imsanghaar&label=Profile%20views&color=0e75b6&style=flat" alt="imsanghaar" />
-</p>
-
-
-
-<!-- About Me -->
 ---
 
-### 🧠 About Me
-- 🎓 I'm a **Prompt & Context Engineer** certified from **PIAIC**
-- 💻 Currently working on **Digital AI Employees** and **Claude Code**
-- 🌱 Learning **Agent Factory**
-- 💬 Ask me about **AI assistants**, **Web Development**, or **AI Agents**
-- 📫 Reach me at: **imamsanghaar@gmail.com**
-- ⚡ Fun fact: *I believe code can feel alive if you build it with passion!*
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imsanghaar&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff" width="95%" />
+
+</div>
 
 ---
 
-### 💼 Experience
-- 🧑‍💻 **Teacher** - Quest Academy Larkana - 2 years
-- 🧠 **Student Brand Ambassador** – State Bank of Pakistan - 1 year
-- 🌍 **Caller Agent** – Call Center - SH Innovation Johar
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=imsanghaar&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=6" width="95%" />
+
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,mysql,git,github" />
-</p>
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imsanghaar/imsanghaar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imsanghaar/imsanghaar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/imsanghaar/imsanghaar/output/github-snake.svg" />
+</picture>
+
+</div>
+
+> **Note:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo.
 
 ---
 
-### Currently Working on:
-- **[Hackathon 0](https://docs.google.com/document/d/1ofTMR1IE7jEMvXM-rdsGXy6unI4DLS_gc6dmZo8WPkI/edit?tab=t.0)** - Building a Personal Digital Full Time Equivalents (FTE) also called an AI Employee. 
+## 💼 Experience
+
+| Role | Organization | Duration |
+|---|---|---|
+| 👨‍🏫 Teacher — Computer Science | Quest Academy, Larkana | 2 years |
+| 🏦 Student Brand Ambassador | State Bank of Pakistan | 1 year |
+| 📞 Caller Agent | SH Innovation, Johar | — |
 
 ---
 
-### 📁 Current Projects:
-1. **[Agent Factory](https://agentfactory-imsanghaar.vercel.app)** - Built with Docusaurus, Prompt Engineering & SpecKitPlus **(Under Development)**
+## 📅 Weekly Coding Breakdown
 
-2. **[Sang Monitor](https://sang-monitor.vercel.app)** - Built with Typescript, WebGL, Rust, Python Prompt Engineering & SpecKitPlus  **Current**
+<div align="center">
 
-3. **[Yes Its Me](https://github.com/imsanghaar/yesitsme)** - An OSINT tool for looking up on Instagram accounts by Email, Username, etc **Current**
+<!--START_SECTION:waka-->
+<!-- This section auto-updates if you connect WakaTime to your GitHub profile -->
+<!--END_SECTION:waka-->
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-35%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-30%25-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-20%25-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![HTML%2FCSS](https://img.shields.io/badge/HTML%2FCSS-10%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Other](https://img.shields.io/badge/Other-5%25-grey?style=flat-square)
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imsanghaar&show_icons=true&theme=radical" alt="Imam's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsanghaar&theme=radical" />
-</p>
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/imam-sanghaar-chandio-96780b274" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=61556981875577" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="48" height="48" style="fill:#1877F2;"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:imamsanghaar@gmail.com" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" height="48"/>
-  </a>
-</p>
+</div>
 
 ---
 
-### 🖼️ About Developer
-<h1 align="center" style="color:#00F5D4; font-family: 'Poppins', sans-serif;">
-</h1>
+## 🎯 2025 Goals
 
-<p align="center" style="color:#00F5D4; font-size:20px; font-family: 'Fira Code', monospace;">
- I started my IT journey since 2019 . At first, I went to robotics course by Edvon where I learned how to use scratch. After that I left it due to some reasons. In 2023, I started Making games by watching youtube tutorial "Tutorial Hell" An dI amde my first game Windy Woods on GameMaker Engine. It was like super mario. Then I left it and went to web programming in 2025 by Harvard University. After that I pursued Agentic AI at PIAIC where I am learing n8n, Agentkit, Python, and much more. Along with that, I am studying Web Development in NED University and currently I am managing two pragrams at the same time. I hope that I get success in this field.
-</p>
+- [x] 🎓 Enroll in NED University Web Dev program
+- [x] 🧠 Join PIAIC Agentic AI course
+- [x] 🚀 Launch Sang Monitor
+- [ ] 🤖 Complete Hackathon 0 — Digital AI Employee
+- [ ] 🏭 Launch Agent Factory v1.0
+- [ ] 📦 Publish 5+ open source projects
+- [ ] ⭐ Reach 100 GitHub stars
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to star a repo if you like my work!* 🌟
-Imam Sanghaar Chandio
+## 💬 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+*"I believe code can feel alive if you build it with passion."*
+
+⭐ **Star a repo if you like what you see!** &nbsp;·&nbsp; **Imam Sanghaar Chandio** &nbsp;·&nbsp; Karachi 🇵🇰
+
+</div>
