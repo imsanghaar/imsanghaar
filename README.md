@@ -120,8 +120,6 @@
 
 </div>
 
-> **Note:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo.
-
 ---
 
 ## 💼 Experience
