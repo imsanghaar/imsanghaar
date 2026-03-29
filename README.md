@@ -40,10 +40,10 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MYSQL-000000?style=flat-square&logo=MYSQL&logoColor=white)
 
 **Tools & Platforms**
 
@@ -57,17 +57,15 @@
 **AI & Agentic**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
+![AI Employees](https://img.shields.io/badge/AI-Employee-1C3C3C?style=flat-square&logo=AI-Employee&logoColor=white)
 ---
 
 ## 🚀 Projects
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| 🏭 **Agent Factory** | AI Agent documentation & tooling platform | Docusaurus · PromptEng | [Visit →](https://agentfactory-imsanghaar.vercel.app) |
-| 📊 **Sang Monitor** | Real-time system monitor with WebGL visuals | TS · WebGL · Rust · Python | [Visit →](https://sang-monitor.vercel.app) |
+| 🏭 **Agent Factory** | AI Agent documentation & tooling platform | Docusaurus · PromptEng | [Repo →](https://github.com/imsanghaar/agentfactory) |
+| 📊 **Sang Monitor** | Real-time system monitor with WebGL visuals | TS · WebGL · Rust · Python | [Repo →](https://github.com/imsanghaar/sang-monitor) |
 | 🔍 **Yes Its Me** | OSINT tool — Instagram lookup via email & username | Python | [Repo →](https://github.com/imsanghaar/yesitsme) |
 
 ---
@@ -95,18 +93,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=imsanghaar&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff" width="95%" />
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=imsanghaar&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=6" width="95%" />
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -150,19 +136,12 @@
 
 ---
 
-## 🎯 2025 Goals
-
-- [x] 🎓 Enroll in NED University Web Dev program
-- [x] 🧠 Join PIAIC Agentic AI course
-- [x] 🚀 Launch Sang Monitor
+## 🎯 2026 Goals
 - [ ] 🤖 Complete Hackathon 0 — Digital AI Employee
-- [ ] 🏭 Launch Agent Factory v1.0
-- [ ] 📦 Publish 5+ open source projects
-- [ ] ⭐ Reach 100 GitHub stars
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 Dev Quote
 
 <div align="center">
 
