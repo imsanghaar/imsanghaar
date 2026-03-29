@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Imam%20Sanghaar&fontSize=56&fontColor=fff&fontAlignY=50&desc=Building%20the%20future%2C%20one%20agent%20at%20a%20time&descSize=16&descColor=ccc&descAlignY=72&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Imam+%F0%9F%91%8B;Web+Developer+%7C+AI+Engineer;Prompt+%26+Context+Engineer;Building+Digital+AI+Employees+%F0%9F%A4%96;Agentic+AI+Learner+%40+PIAIC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Imam+Sanghaar+%F0%9F%91%8B;Web+Developer+%7C+AI+Engineer;Certified+Prompt+%26+Context+Engineer;Building+Digital+AI+Employees+%F0%9F%A4%96;Agentic+AI+Learner+%40+PIAIC" alt="Typing SVG" />
 
 <br/>
 
