@@ -67,6 +67,7 @@
 | 🏭 **Agent Factory** | AI Agent documentation & tooling platform | Docusaurus · PromptEng | [Repo →](https://github.com/imsanghaar/agentfactory) |
 | 📊 **Sang Monitor** | Real-time system monitor with WebGL visuals | TS · WebGL · Rust · Python | [Repo →](https://github.com/imsanghaar/sang-monitor) |
 | 🔍 **Yes Its Me** | OSINT tool — Instagram lookup via email & username | Python | [Repo →](https://github.com/imsanghaar/yesitsme) |
+| 🤖 **Hackathon 0** | AI Employee — Building Autonomous FTEs (Full-Time Equivalent) | Python, Agent Skills | [Repo →](https://github.com/imsanghaar/Haclathon-0) |
 
 ---
 
