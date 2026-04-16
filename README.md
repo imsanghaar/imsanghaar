@@ -68,6 +68,7 @@
 | 📊 **Sang Monitor** | Real-time system monitor with WebGL visuals | TS · WebGL · Rust · Python | [Repo →](https://github.com/imsanghaar/sang-monitor) |
 | 🔍 **Yes Its Me** | OSINT tool — Instagram lookup via email & username | Python | [Repo →](https://github.com/imsanghaar/yesitsme) |
 | 🤖 **Hackathon 0** | AI Employee — Building Autonomous FTEs (Full-Time Equivalent) | Python · Agent Skills · MCP| [Repo →](https://github.com/imsanghaar/Hackathon-0) |
+| 🤖 **SangLabs** | Website to showcase AI Employees | HTML · CSS · Javascript | [Link →](https://sanglab.vercel.app) |
 
 ---
 
