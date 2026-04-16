@@ -10,6 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imamsanghaar@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61556981875577)
 [![Instagram](https://img.shields.io/badge/Instagram-%23121011.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/imsanghaar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=Portfolio&logoColor=white)](https://imsanghaar.vercel.app)
 
 <br/>
 
